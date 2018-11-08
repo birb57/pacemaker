@@ -1,0 +1,16 @@
+addressable
+backports
+bigdecimal
+bundler
+colored
+functions
+io-console
+json
+open4
+orderedhash
+permission
+psych
+public_suffix
+rdoc
+rpam
+rpam-ruby19
